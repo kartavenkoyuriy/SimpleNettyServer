@@ -3,7 +3,7 @@
 Необходимо реализовать http-сервер на фреймворке netty
 (http://netty.io/), со следующим функционалом:
 
-1. По запросу на http://somedomain/hello отдает(как блять отдает?) «Hello World» через 10 секунд
+1. По запросу на http://somedomain/hello отдает «Hello World» через 10 секунд
 2. По запросу на http://somedomain/redirect?url=<url> происходит
 переадресация на указанный url
 3. По запросу на http://somedomain/status выдается статистика:
