@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/server/HttpHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/server/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/server/ServerInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/server/StatisticsHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/uriHandlers/HelloUriHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/uriHandlers/NotFoundUriHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/uriHandlers/RedirectUriHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/uriHandlers/StatusUriHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/uriHandlers/UriHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/util/ConnectQueue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/util/ConnectionData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/simpleNettyServer/util/RequestCounter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
